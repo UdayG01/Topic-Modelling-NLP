@@ -1,5 +1,7 @@
 # Topic-Modelling-NLP
-This repo marks my attempt to learn and consequently practice the implementation of Topic modelling using algos like LDA, LSA and NMF
+This repo marks my attempt to learn and consequently practice the implementation of Topic modelling using algos like LDA, LSA and NMF.
+
+- The csv that I used for the purpose: (https://www.kaggle.com/datasets/therohk/million-headlines)
 
 # Abstract 🚀
 Well, put in a 🥜: Topic modeling is like a magic tool that helps computers understand what a bunch of texts or articles are all about. Imagine you have a big box of letters, and you want to sort them into different categories based on their content. That's what topic modeling does with the texts. It reads through all the documents, finds the main themes, or "topics," and groups similar ones together. So basically, if I have a large source of news articles, and I aim at grouping them to see for only those that revolved around some political stresses, topic modelling would help me narrow down my choices.
