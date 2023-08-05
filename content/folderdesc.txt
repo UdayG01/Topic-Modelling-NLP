@@ -1,0 +1,2 @@
+Folder to store the CSVs for the NLP model.
+Currently, uploading just one csv.
